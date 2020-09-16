@@ -366,28 +366,20 @@
 
 @media only screen and (max-width: 462px) {
     .banner-container {
-        margin-top: 181px;
+        margin-top: 148px;
     }
 
 }
 
 @media only screen and (max-width: 347px) {
     .banner-container {
-        margin-top: 215px;
+        margin-top: 200px;
     }
 
 }
 
-@media only screen and (max-width: 315px) {
-    .banner-container {
-        margin-top: 269px;
-    }
-
-
-}
-
-@media only screen and (max-width: 244px) {
-    .menu-bar img {
+@media only screen and (max-width: 350px) {
+   .menu-bar img {
         display: none;
     }
 
@@ -402,16 +394,20 @@
     .main-menu li a {
         margin: 8px 0
     }
+    .banner{padding: 5px 0}
 
 }
 
+    
 
 
 
 
 
 
-@media only screen and (max-width: 1125px) {}
+
+
+
 
 @media only screen and (max-width: 1125px) {}
 
