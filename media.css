@@ -1,0 +1,426 @@
+@media only screen and (max-width: 1215px) {
+    .menu-logo {
+        width: 100%;
+        float: none;
+        margin: auto;
+        text-align: center;
+    }
+
+    .menu-item {
+        width: 100%;
+        overflow: hidden;
+        text-align: center;
+        margin: auto;
+    }
+
+    .main-menu ul {
+
+        padding-bottom: 30px;
+    }
+
+    .banner-container {
+
+        margin-top: 113px;
+
+    }
+}
+
+@media only screen and (max-width: 1125px) {
+    .image-section-left {
+        width: 32%;
+        float: left;
+        margin-right: 2%;
+    }
+
+    .image-section-middle-1 {
+        width: 32%;
+        overflow: hidden;
+        float: left;
+        margin-right: 2%;
+    }
+
+    .image-section-middle-2 {
+        width: 32%;
+        overflow: hidden;
+        float: none;
+        margin-right: none;
+    }
+
+    .image-section-right {
+        width: 32%;
+        overflow: hidden;
+        margin-bottom: 25px;
+    }
+
+    .iframe-section-left {
+        width: 32%;
+        float: left;
+        margin-right: 2%;
+        margin-bottom: 25px;
+    }
+
+    .iframe-section-middle-1 {
+        width: 32%;
+        overflow: hidden;
+        float: left;
+        margin-right: 2%;
+        margin-bottom: 25px;
+    }
+
+    .iframe-section-middle-2 {
+        width: 32%;
+        overflow: hidden;
+        float: none;
+        margin-right: none;
+        margin-bottom: 25px;
+    }
+
+    .iframe-section-right {
+        width: 32%;
+        overflow: hidden;
+    }
+
+    .footer-container-left {
+        width: 30.6%;
+        float: left;
+        margin-right: 4%;
+    }
+
+    .footer-container-middle-1 {
+        width: 30.6%;
+        overflow: hidden;
+        float: left;
+        margin-right: 4%;
+    }
+
+    .footer-container-middle-2 {
+        width: 30.6%;
+        overflow: hidden;
+        float: none;
+        margin-right: none;
+    }
+
+    .footer-container-right {
+        width: 30.6%;
+        overflow: hidden;
+    }
+}
+
+@media only screen and (max-width: 862px) {
+    .banner-container {
+        margin-top: 147px;
+    }
+
+    .banner-left {
+        width: 100%;
+        margin-right: none;
+        float: none;
+    }
+
+    .banner-container img {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 850px) {
+    .corona {
+        width: 49%;
+        margin-right: 2%;
+        float: left;
+        background-color: #D9534F;
+        text-align: center;
+    }
+
+    .student {
+        width: 49%;
+        margin-right: none;
+        overflow: hidden;
+        float: none;
+        background-color: #F0AD4E;
+        text-align: center;
+        margin: 15px 0;
+    }
+
+    .telemedicine {
+        width: 49%;
+        overflow: hidden;
+        background-color: #D9534F;
+        text-align: center;
+    }
+
+    .card-left {
+        width: 48.5%;
+        float: left;
+        margin-right: 3%;
+        margin-bottom: 15px;
+    }
+
+    .card-middle {
+        width: 48.5%;
+        overflow: hidden;
+        float: none;
+        margin-right: none;
+        margin-bottom: 15px;
+    }
+
+    .card-right {
+        width: 48.5%;
+        overflow: hidden;
+        margin-bottom: 15px;
+    }
+
+    .image-section-left {
+        width: 49%;
+        float: left;
+        margin-right: 2%;
+    }
+
+    .image-section-middle-1 {
+        width: 49%;
+        overflow: hidden;
+        float: none;
+        margin-right: none;
+    }
+
+    .image-section-middle-2 {
+        width: 49%;
+        overflow: hidden;
+        float: left;
+        margin-right: 2%;
+    }
+
+    .image-section-right {
+        width: 49%;
+        overflow: hidden;
+    }
+
+    .iframe-section-left {
+        width: 49%;
+        float: left;
+        margin-right: 2%;
+    }
+
+    .iframe-section-middle-1 {
+        width: 49%;
+        overflow: hidden;
+        float: none;
+        margin-right: none;
+    }
+
+    .iframe-section-middle-2 {
+        width: 49%;
+        overflow: hidden;
+        float: left;
+        margin-right: 2%;
+    }
+
+    .iframe-section-right {
+        width: 49%;
+        overflow: hidden;
+    }
+
+
+}
+
+
+
+@media only screen and (max-width: 550px) {
+    .corona {
+        width: 100%;
+        margin-right: none;
+        float: none;
+        background-color: #D9534F;
+        text-align: center;
+    }
+
+    .student {
+        width: 100%;
+        margin-right: none;
+        overflow: hidden;
+        float: none;
+        background-color: #F0AD4E;
+        text-align: center;
+        margin: 15px 0;
+    }
+
+    .telemedicine {
+        width: 100%;
+        overflow: hidden;
+        background-color: #D9534F;
+        text-align: center;
+    }
+
+    .card-left {
+        width: 100%;
+        float: none;
+        margin-right: none;
+        margin-bottom: 15px;
+    }
+
+    .card-middle {
+        width: 100%;
+        overflow: hidden;
+        float: none;
+        margin-right: none;
+        margin-bottom: 15px;
+    }
+
+    .card-right {
+        width: 100%;
+        overflow: hidden;
+        margin-bottom: 15px;
+    }
+
+    .image-section-left {
+        width: 100%;
+        float: none;
+        margin-right: none;
+    }
+
+    .image-section-middle-1 {
+        width: 100%;
+        overflow: hidden;
+        float: none;
+        margin-right: none;
+    }
+
+    .image-section-middle-2 {
+        width: 100%;
+        overflow: hidden;
+        float: none;
+        margin-right: none;
+    }
+
+    .image-section-right {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .iframe-section-left {
+        width: 100%;
+        float: none;
+        margin-right: none;
+    }
+
+    .iframe-section-middle-1 {
+        width: 100%;
+        overflow: hidden;
+        float: none;
+        margin-right: none;
+    }
+
+    .iframe-section-middle-2 {
+        width: 100%;
+        overflow: hidden;
+        float: none;
+        margin-right: none;
+    }
+
+    .iframe-section-right {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .footer-container-left {
+        width: 100%;
+        float: left;
+        margin-right: 4%;
+        text-align: center;
+    }
+
+    .footer-container-middle-1 {
+        width: 100%;
+        overflow: hidden;
+        float: left;
+        margin-right: 4%;
+        text-align: center;
+    }
+
+    .footer-container-middle-2 {
+        width: 100%;
+        overflow: hidden;
+        float: left;
+        margin-right: 4%;
+        text-align: center;
+    }
+
+    .footer-container-right {
+        width: 100%;
+        overflow: hidden;
+        text-align: center;
+    }
+
+    .copyright-left {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+
+    .copyright-right {
+        width: 100%;
+        overflow: hidden;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 462px) {
+    .banner-container {
+        margin-top: 181px;
+    }
+
+}
+
+@media only screen and (max-width: 347px) {
+    .banner-container {
+        margin-top: 215px;
+    }
+
+}
+
+@media only screen and (max-width: 315px) {
+    .banner-container {
+        margin-top: 269px;
+    }
+
+
+}
+
+@media only screen and (max-width: 244px) {
+    .menu-bar img {
+        display: none;
+    }
+
+    .banner-container {
+        margin-top: none;
+    }
+
+    .menu-bar {
+        padding: ;
+    }
+
+    .main-menu li a {
+        margin: 8px 0
+    }
+
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 1125px) {}
+
+@media only screen and (max-width: 1125px) {}
+
+@media only screen and (max-width: 1125px) {}
+
+@media only screen and (max-width: 1125px) {}
+
+@media only screen and (max-width: 1125px) {}
+
+@media only screen and (max-width: 1125px) {}
+
+@media only screen and (max-width: 1125px) {}
